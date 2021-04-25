@@ -1,0 +1,5 @@
+/venv
+scrapy.cfg
+__pycache__/
+ *.pyc
+.idea
